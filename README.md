@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm a Civil Engineer starting my journey in tech, but I have already some experience in data analysis
-- 🌱 I’m currently learning SQL, PYTHON, HTML, CSS and JAVASCRIPT.
+- 🌱 I’m currently learning SQL, PYTHON, HTML, CSS, JAVASCRIPT and REACT JS.
 - 👯 I’m looking to collaborate on show what I'm learning
 - 🤔 My [Youtube channel](https://www.youtube.com/@codestartjourney)
 - 😄 Pronouns: He/Him
