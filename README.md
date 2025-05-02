@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 <img alt ="my stats"  align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ojosealbertoalves&show_icons=true"/>
-
+<img alt="top languages" align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojosealbertoalves&layout=compact"/>
 
